@@ -19,7 +19,7 @@
             <element type="button" id="bttnTextSelect" icon_width="16" width="15" icon_height="13" fa-class="fa-i-cursor" visible="false"/>
             <element type="button" id="bttnHand" height="19" width="15" icon_width="16" icon_height="13" paddingRight="40" fa-class="fa-hand-pointer-o" visible="false"/>
             <element type="textinput" id="txtSearch" heigh="19" width="40" paddingRight="15" visible="true"/>
-            <element type="button" id="bttnFind" height="19" width="25" icon_width="13" icon_height="12" fa-class="fa-search" visible="true"/>
+            <element type="button" id="bttnFind" height="19" width="25" icon_width="13" icon_height="12" fa-class="" visible="true"/>
             <element type="progress" id="progressLoading"/>
         </toolbar>
     </desktop>
