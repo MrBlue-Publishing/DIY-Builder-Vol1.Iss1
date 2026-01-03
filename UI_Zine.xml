@@ -11,7 +11,7 @@
             <element type="button" id="bttnSinglePage" height="19" paddingLeft="0" icon_width="10" icon_height="13" paddingRight="30" visible="false"/>
             <element type="slider" id="zoomSlider" height="11" width="80" visible="true"/>
             <element type="textinput" id="txtZoomFactor" height="19" width="32" visible="true"/>
-            <element type="button" id="bttnFullscreen" width="14" height="19" icon_width="25" icon_height="13" paddingRight="30" fa-class="" visible="true"/>
+            <element type="button" id="bttnFullscreen" width="14" height="19" icon_width="25" icon_height="13" paddingRight="30" fa-class="fa-expand" visible="true"/>
             <element type="button" id="bttnPrevPage" icon_width="13" icon_height="13" height="20" width="15" fa-class="" visible="true"/>
             <element type="textinput" id="txtPageNumber" height="19" width="25" visible="true"/>
             <element type="label" id="lblTotalPages" paddingTop="1" visible="true"/>
